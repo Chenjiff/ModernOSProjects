@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tile>
+  <visual>
+      <binding template="TileSmall">
+        <text id="1" hint-style="subtitle"></text>
+        <text id="2"></text>
+        <image id="1" src="../Assets/Forest.jpg" placement="background"/>
+      </binding>
+      <binding template="TileMedium">
+        <text id="1" hint-style="subtitle"></text>
+        <text id="2"></text>
+        <image id="1" src="../Assets/Forest.jpg" placement="background"/>
+      </binding>
+      <binding template="TileWide">
+        <text id="1" hint-style="subtitle"></text>
+        <text id="2"></text>
+        <image id="1" src="../Assets/Forest.jpg" placement="background"/>
+      </binding>
+  </visual>
+</tile>
