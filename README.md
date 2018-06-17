@@ -1,2 +1,2 @@
 # ModernOSProjects
-Some uwp projects base on VisualStudio2017 
+Some uwp and cocos projects created by VisualStudio2017 
